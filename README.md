@@ -1,2 +1,2 @@
 # Hangman
-Hangman, but in the terminal
+A simple hangman game in the terminal created with python.
